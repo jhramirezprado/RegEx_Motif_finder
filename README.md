@@ -24,6 +24,10 @@ For this study, a collection of the protein models for 54 fungal genomes [(Table
 
 A search for putative Chsp was performed on the protein models corresponding to the 54 fungal genomes. For this, a regular expression (RE) based on the shorter version of the CON1 region (hereafter called CON1S) containing the three conserved Chsp motifs **QXXEY**, **QXRRW** and **EDRXL** [3](https://academic.oup.com/femsyr/article/1/4/247/519059?login=true), [4](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1432-1033.2004.04135.x), [6](https://www.sciencedirect.com/science/article/abs/pii/S1087184506001101), was used: “**Q‥EY[A-Z]\*EDR.L[A-Z]\*Q.RRW**” (periods represent a single amino acid). The RE was coded in a script written in the Perl programming language [16](https://www.perl.org/) [(File S1)](https://doi.org/10.1371/journal.pone.0104920.s022).
 
+![Screenshot from 2021-03-14 18-40-29](https://user-images.githubusercontent.com/79963269/111090306-ebed0d80-84f4-11eb-8765-82b32bec362f.png)
+
+
+
 **This is the perl script**
 
 <pre><code>
