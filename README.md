@@ -3,6 +3,7 @@
 **Code used on this publication:**
 
 Pacheco-Arjona, J. R., & **Ramirez-Prado, J. H.\*** (2014). Large-scale phylogenetic classification of fungal chitin synthases and identification of a putative cell-wall metabolism gene cluster in Aspergillus genomes. _PloS one_, 9(8), e104920.
+
 \*corresponding author
 
 https://doi.org/10.1371/journal.pone.0104920
@@ -11,7 +12,7 @@ https://doi.org/10.1371/journal.pone.0104920
 
 **ABSTRACT**
 
-#The cell wall is a protective and versatile structure distributed in all fungi. The component responsible for its rigidity is chitin, a product of chitin synthase (Chsp) enzymes. There are seven classes of chitin synthase genes (CHS) and the amount and type encoded in fungal genomes varies considerably from one species to another. Previous Chsp sequence analyses focused on their study as individual units, regardless of genomic context. The identification of blocks of conserved genes between genomes can provide important clues about the interactions and localization of chitin synthases. On the present study, we carried out an in silico search of all putative Chsp encoded in 54 full fungal genomes, encompassing 21 orders from five phyla. Phylogenetic studies of these Chsp were able to confidently classify 347 out of the 369 Chsp identified (94%). Patterns in the distribution of Chsp related to taxonomy were identified, the most prominent being related to the type of fungal growth. More importantly, a synteny analysis for genomic blocks centered on class IV Chsp (the most abundant and widely distributed Chsp class) identified a putative cell wall metabolism gene cluster in members of the genus Aspergillus, the first such association reported for any fungal genome.
+The cell wall is a protective and versatile structure distributed in all fungi. The component responsible for its rigidity is chitin, a product of chitin synthase (Chsp) enzymes. There are seven classes of chitin synthase genes (CHS) and the amount and type encoded in fungal genomes varies considerably from one species to another. Previous Chsp sequence analyses focused on their study as individual units, regardless of genomic context. The identification of blocks of conserved genes between genomes can provide important clues about the interactions and localization of chitin synthases. On the present study, we carried out an in silico search of all putative Chsp encoded in 54 full fungal genomes, encompassing 21 orders from five phyla. Phylogenetic studies of these Chsp were able to confidently classify 347 out of the 369 Chsp identified (94%). Patterns in the distribution of Chsp related to taxonomy were identified, the most prominent being related to the type of fungal growth. More importantly, a synteny analysis for genomic blocks centered on class IV Chsp (the most abundant and widely distributed Chsp class) identified a putative cell wall metabolism gene cluster in members of the genus Aspergillus, the first such association reported for any fungal genome.
 
 **MATERIALS AND METHODS**
 
